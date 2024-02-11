@@ -1,0 +1,36 @@
+title: Python Hour of Code
+description: League Python Introductory Hour of Code
+pages:
+  - index.md
+  - about.md
+  - intro.md
+resources:
+  - Flag.png
+  - word-logo.png
+sidebar:
+  - path: /intro
+    title: Introduction
+lessons:
+  lesson1:
+    text: lesson1.md
+    resources:
+      - Flag.png
+    assignments:
+    - python-modules/Levels/Level0/Module0/01_drawing/tina_the_turtle
+    - python-modules/Levels/Level0/Module0/01_drawing/shapes_and_colors
+    - python-modules/Levels/Level0/Module0/01_drawing/logical_dot
+  lesson2:
+    text: lesson2.md
+    resources:
+      - word-logo.png
+    assignments:
+    - python-modules/Levels/Level0/Module0/02_code_flow/turtle_spiral
+    - python-modules/Levels/Level0/Module0/02_code_flow/flaming_ninja_star
+  lesson3:
+    text: lesson3.md
+    resources:
+      - Flag.png
+    assignments:
+     - python-modules/Levels/Level0/Module1/02_variables_practice/circle_area_calculator
+     - python-modules/Levels/Level0/Module1/03_if_else/1_unbirthday/unbirthday
+     - python-modules/Levels/Level0/Module1/05_for_loops/1_my_ages/my_ages
