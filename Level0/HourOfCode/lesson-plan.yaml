@@ -27,7 +27,7 @@ lessons:
     - python-modules/Levels/Level0/Module0/02_code_flow/turtle_spiral
     - python-modules/Levels/Level0/Module0/02_code_flow/flaming_ninja_star
     - python-modules/Levels/Level0/Module1/01_variables/variables
-     - python-modules/Levels/Level0/Module1/02_variables_practice/circle_area_calculator
+    - python-modules/Levels/Level0/Module1/02_variables_practice/circle_area_calculator
   lesson3:
     text: lesson3.md
     resources:
